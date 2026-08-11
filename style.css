@@ -1,0 +1,77 @@
+.nav-link:link{
+   font-family: "Roboto", sans-serif;
+   color: #080808;
+   font-size: 30px;
+   font-weight: 900;
+}
+
+.nav-link:visited{
+    color: #f8bc6e;
+}
+
+.nav-link:hover {
+    color: #FFDE59;
+}
+
+.logo {
+    width: 175px;
+}
+
+.bg-custom {
+    background-color: #C49A6C;
+}
+
+.footer {
+    background-color:#C49A6C;
+    font-family: "Grandstander", cursive;
+    
+}
+
+h5 {
+    font-weight: 700;
+    color: #080808
+}
+h6 {
+    color: #080808;
+}
+
+p {
+    color: #080808;
+}
+
+.bi {
+    color:#080808;
+}
+
+h1 {
+    font-family: "Grandstander", cursive;
+    color: #977856
+}
+p {
+     font-family: "Roboto", sans-serif;
+   color: #080808;
+   font-size: 15px;
+   font-weight: 500;
+}
+
+h2 {
+    background-color: #C49A6C;
+   font-family: "Roboto", sans-serif;
+    color:#080808
+}
+
+.contactstyle {
+    font-family: "Roboto", sans-serif;
+   color: #080808;
+   font-size: 15px;
+   font-weight: 500;
+}
+
+.form-label {
+    font-family: "Grandstander", cursive;
+    color: #61401d
+}
+
+.form-control {
+    background-color: #97785641;
+}
